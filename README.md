@@ -1,4 +1,4 @@
-# tf2-scripts
+# my custom tf2 files
 
 designed to be used with mastercomfig
 
