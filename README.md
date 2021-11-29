@@ -1,6 +1,6 @@
 # my custom tf2 files
 
-based off of woolen's binds, designed to be used with [mastercomfig](https://mastercomfig.com/)
+based off of [woolen's binds](https://youtu.be/cRGW4a1K_Io), designed to be used with [mastercomfig](https://mastercomfig.com/)
 
 ## other additions:
 * FlawHUD
