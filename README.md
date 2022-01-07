@@ -5,7 +5,7 @@ based off of [woolen's binds](https://youtu.be/cRGW4a1K_Io), designed to be used
 ## other additions:
 * uwui hud
 * [no explosion smoke](https://www.teamfortress.tv/25647/no-explosion-smoke-script)
-* [preload_room](https://www.teamfortress.tv/25647/no-explosion-smoke-script) (faster load times)
+* [preload_room](https://www.teamfortress.tv/post/631802/yttriums-competitive-viewmodels) (faster load times)
 
 ## installation:
 1. clone the repo
